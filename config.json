@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "javascript-basics",
+      "title": "JavaScript Basics",
+      "description": "Variables, data types, conditionals, loops, and functions in JavaScript",
+      "path": "assignments/javascript-basics",
+      "dueDate": "2026-05-04",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
